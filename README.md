@@ -1,1 +1,1 @@
-# nextjs-houz-simple
+# Home Sweet Home
